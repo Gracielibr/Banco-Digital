@@ -22,9 +22,13 @@ Após digitar o CPF, o usuário deverá escolher qual a conta deseja entrar: cor
 
 ### Menu da conta
 1- Depósito
+
 2- Saque
+
 3- Tranferência: nesta opção, o usuário poderá transferir para sua outra conta ou para outro cliente do Banco
+
 4- Ver saldo
+
 5- Sair: aqui terá a opção de acessar outra contra, escolhendo ela, o usuário poderá verificar se a sua transferência deu certo, acessando a outra conta e vendo o saldo.
 
 ## Lista dos Clientes existentes
