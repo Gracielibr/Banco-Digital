@@ -64,7 +64,7 @@ Conta corrente | Agência: 0001 | Conta: 00009
 Conta poupança | Agência: 0001 | Conta: 00010  
 
 ## Diagrama UML
-Conforme sugerido, para elaborar o diagrama foi utilizada a extenção Markdown Preview Mermaid Support.
+Para elaborar o diagrama foi utilizada a extenção Markdown Preview Mermaid Support.
 
 
 ```mermaid
